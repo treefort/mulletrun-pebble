@@ -1,10 +1,10 @@
 {
   "uuid": "133215f0-cf20-4c05-997b-3c9be5a64e5b",
-  "shortName": "Pebble.js",
-  "longName": "Pebble.js",
-  "companyName": "Meiguro",
+  "shortName": "Mullet Run",
+  "longName": "Mullet Run",
+  "companyName": "treefort",
   "versionCode": 1,
-  "versionLabel": "0.4.0",
+  "versionLabel": "0.0.1",
   "capabilities": [ "configurable" ],
   "watchapp": {
     "watchface": false
@@ -21,6 +21,18 @@
         "type": "png",
         "name": "IMAGE_LOGO_SPLASH",
         "file": "images/logo_splash.png"
+      }, {
+        "type": "png",
+        "name": "IMAGE_MENU_RESET",
+        "file": "images/menu_reset.png"
+      }, {
+        "type": "png",
+        "name": "IMAGE_MENU_PAUSE",
+        "file": "images/menu_pause.png"
+      }, {
+        "type": "png",
+        "name": "IMAGE_MENU_START",
+        "file": "images/menu_start.png"
       }, {
         "type": "png",
         "name": "IMAGE_TILE_SPLASH",
